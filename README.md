@@ -20,7 +20,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-       background: url("./243325638_1917733741729912_7890315034862689014_n.jpg");
+       background: url("./312487757_3375494922726204_7389189315421229055_n.jpg");
     }
 
     .box {
